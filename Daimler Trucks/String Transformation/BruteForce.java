@@ -31,7 +31,7 @@ public class transformation {
         }
         return res;
     }
- ////////////// Just for Example //////////////////////
+ 
     public static void main(String[] args)
     {
         String A = "EACBD";
